@@ -5,8 +5,8 @@ import pandas as pd
 import plotly.express as px
 
 # 1. KUNCI AKSES SPOTIFY KAMU
-CLIENT_ID = "0d2100b7131948af81d7ff03ebd1b8c5"
-CLIENT_SECRET = "8f14a48715754a5396be363b5eaad830"
+CLIENT_ID = "MASUKKAN_CLIENT_ID_KAMU_DI_SINI"
+CLIENT_SECRET = "MASUKKAN_CLIENT_SECRET_KAMU_DI_SINI"
 
 # Koneksi Otomatis ke Server Spotify
 try:
